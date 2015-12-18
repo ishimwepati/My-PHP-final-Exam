@@ -1,0 +1,79 @@
+/* service.css */
+
+/* Table of Contents
+------------------------------------
+	1. Reset
+    2. Elements (a, body, p, etc.)
+	3. ID's (#container, etc.)
+	4. Classes (.red, .clear, etc.)
+	5. Print
+	6. Handheld
+	7. Debug
+
+------------------------------------*/
+
+/* 1. Reset (included in root.css)
+------------------------------------*/
+
+/* 2. Elements
+------------------------------------*/
+p { margin-bottom: 1.2em;}
+
+/* 3. ID's
+------------------------------------*/
+#breadCrumbs { width: 593px;}
+#mainContent {
+    background: #f7f7f7;
+    padding-bottom: 0;
+    width: 604px;
+}
+#reserve img { margin-bottom: 80px;}
+#topStory { float: left;}
+#topStory img { float: left;}
+#topStory h4 {
+    font-size: 1.3em;
+    margin: 0.5em 0 0.5em 0;
+}
+#topStoryRight {
+    float: left;
+    padding: 0 10px;
+    width: 235px;
+}
+
+/* 4. Classes
+------------------------------------*/
+.contentBlock img {
+    border: none;
+    float: left;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 15px;
+}
+.contentBlock p {
+    margin: 1.2em 0;
+    padding: 0 20px;
+}
+
+/* 5. Print
+------------------------------------*/
+@media print { }
+
+/* 6. Handheld
+------------------------------------*/
+@media handheld { }
+
+/* 7. Debug
+------------------------------------*/
+/* Un-comment for site testing
+
+*[style], font, center {outline: 5px solid red;}
+img[alt=""] {border: 3px solid red;}
+img[title=""] {border: 3px dotted fuchsia;}
+img:not([alt]) {border: 5px solid red;}
+img:not([title]) {outline: 5px solid fuchsia;}
+table[summary=""] {outline: 3px solid red;}
+table:not([summary]) {outline: 5px solid red;}
+th {border: 2px solid red;}
+th[scope="col"], th[scope="row"] {border: none;}
+a[href]:not([title]) {border: 5px solid red;}
+a[title=""] {outline: 3px dotted red;}
+a[href=""] {background: fuchsia;} */

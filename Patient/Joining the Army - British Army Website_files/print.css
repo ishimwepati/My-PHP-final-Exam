@@ -1,0 +1,95 @@
+/*Print css file*/
+
+body{background:#fff !important; font-family:Arial, verdana, Helvetica, sans-serif; 
+font-size:10pt; color:#4B3D34;}
+
+img{border:0;}
+a {color:#4B3D34; text-decoration:none;}
+a:visited{color:#660000;}
+
+h1, h2, h3, h4, h5, h6, p{margin:0; padding:0;}
+p{line-height:1.2em; margin-bottom:8pt;}
+h2{font-size:1.2em;}
+h3, h4, h5, h6{font-size:1em;}
+h1, h2, h3, h4, h5, h6{line-height:1.5em; margin-bottom:5pt;}
+
+table{border:1px solid #C6C4B7; margin: 5px 0 10px 0; width:100%;}
+table td{border:1px solid #C6C4B7; padding:3px; width:25%;}
+table th{font-size:1.1em; border-bottom:1px solid #C6C4B7; text-align:left;}
+.TwoColumnTable{width:50%;}
+.TwoColumnTable th{width:20%; border-right:1px solid #C6C4B7;}
+
+#topnav, #Search, #PageRight, #footer, .OtherFeatures, #Breadcrumbs, .corpsfind, #PageLeft,
+#FindYourNearest, .SearchPanel, #Accesslinks, #MicrositeNav{display:none;}
+
+#banner{/*height:90px;*/}
+#banner span{font-size:2.2em;}
+#banner a{display:block; padding:10px 10px 10px 0; background-color:#ffffff; width:100%;}
+
+#HomeTopPanelWrapper, #HomeFullWidthWrapper{background-color:#ffffff;}
+
+/*British Army structure panel*/
+.PromoBoxList{background:none; background-color:#ffffff;}
+
+/*Joining the Army page*/
+.TwoColumnPromo p{ background-color:#ffffff;}
+.TwoColumnPromoImage{}
+
+/*corps.stm page*/
+.MicrositePanelBG{height:55pt; width:50%;}
+html>body .MicrositePanelBG{height:auto; min-height:55pt; overflow:hidden;}
+.MicrositePanelBG h2{width:50%;}
+.MicrositePanelWrapper p{width:50%;}
+
+/*Subpage3.stm*/
+.addressboxeslink{margin-top:10pt;}
+
+/*Email page to a friend*/
+#EmailPageForm{width:40%;}
+
+/*Contact us page*/
+#ContactFormWeapper{width:50%;}
+#ContactFormWeapper textarea{width:270pt;}
+
+/*Print section for Jobs*/
+.LinkButton, .image-gallery .fright, #VideoPlayList, .flash-asset-template, .carousel a.next, .carousel a.previous, .Video, 
+.navigation-circles, #JobRoles, .PanelLink
+{ display:none; }
+.image-gallery .fleft .Item, .collapse		{ display:block !important; }
+.carousel .carousel-wrap 					{ height: auto !important; }
+.carousel .carousel-wrap ul 				{ position: relative !important; width: 600px !important; }
+.carousel ul
+{
+	margin:0;
+	padding:0;
+}
+.carousel ul li
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	width:186px;
+	height:220px !important;
+}
+.carousel ul li span
+{
+	display:block;
+	padding:5px 10px 5px 10px;
+	margin-top:0px;
+}
+
+.secondary-promo, .primary-promo
+{
+	background:none !important;
+}
+
+.secondary-promo p, .secondary-promo .inner
+{
+	display:block !important;
+}
+
+.secondary-promo .inner
+{
+	margin:0 !important;
+}

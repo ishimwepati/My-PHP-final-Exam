@@ -1,0 +1,147 @@
+.two-col-container #PageWrapper { width:100%}
+.two-col-container #PageContent {width: 797px; margin-right: 3px;}
+
+.two-col-container .Image h1, .two-col-container .Image h2, .two-col-container .Image h3, .two-col-container .carousel ul li span {background-image: url("../images/structure/transparent-darker.png");}
+
+.two-col-container .large-title-template .fleft,
+.two-col-container .small-title-template .fleft,
+.two-col-container .secondary-1 .fleft {width: 508px;}
+.two-col-container .large-title-template.promo-color { background-color: #e6e1d2;}
+.two-col-container .FullWidth .fleft { width:auto}
+
+.two-col-container .promo-brown.wide-template {min-height: 0}
+
+.two-col-container .large-title-template .fright,
+.two-col-container .small-title-template .fright,
+.two-col-container .secondary-1 .fright { padding: 24px 10px 10px; width: 230px;}
+.two-col-container .secondary-1 .fright {width: 218px;}
+
+.two-col-container .large-title-template .fright .LinkButton,
+.two-col-container .small-title-template .fright .LinkButton,
+.two-col-container .secondary-1 .fright .LinkButton {float: left; margin-bottom: 9px; margin-right: 19px;}
+
+
+.two-col-container .call-to-action-large { margin:auto auto 20px auto; width:96%; background-color:#fbc133; }
+.two-col-container .call-to-action-large h2 a {text-decoration:none; color:#000;  background: url("../images/structure/large-arrow-black.png") no-repeat scroll right center; }
+.two-col-container .call-to-action-large h2 { font-size: 1em; }
+.two-col-container .large-title-template .promo-brown.no_min_height  { overflow:visible; background-color:transparent;}
+.two-col-container .promo-brown.no_min_height .call-to-action-large { margin:auto; }
+.two-col-container .call-to-action-large h2 a:hover, .two-col-container .call-to-action-small h2 a:hover {background: url("../images/structure/large-arrow-white.png") no-repeat scroll right center;  color: #fff; padding-right: 10px;}
+
+
+.two-col-container .small-title-template {background-color: #e6e1d2;}
+.two-col-container .small-title-template h1, .two-col-container .small-title-template h2  {  background-color: #000; color: #fff; font-size: 1.79em; margin: 0; padding: 8px 9px 11px;}
+
+
+.two-col-container .tertiary-1 .fleft { float: left; max-width: 508px; overflow:hidden; margin-right:17px;}
+.two-col-container .tertiary-1 .LinkButton { margin-right:19px; margin-bottom:9px; float:left}
+
+.two-col-container .expanding-panel-wrapper {background-color: #e6e1d2; padding-top: 13px; padding-bottom: 10px;}
+.lt-ie8 .two-col-container .expanding-panel-wrapper { padding-left:5px; padding-right:5px;}
+
+.two-col-container h2.expand a, 
+.two-col-container .expanding-panel-wrapper h2.open a, 
+.two-col-container .expanding-panel-wrapper h2.open a:active, 
+.two-col-container .expanding-panel-wrapper h2.open a:focus { width:96.5%; height:15px;} 
+
+.two-col-container #Tabs {margin: 2px 0 0;}
+.two-col-container #Tabs ul { border-bottom: 2px solid #5d4b3f; border-top:none; margin:0}
+.two-col-container #Tabs ul li a { background-color:#e0e6e5; margin-left: 0px; border-left:1px solid #FFF; width:138.5px; }
+.two-col-container #Tabs ul li.first a { border-left:none;}
+.two-col-container #Tabs ul li a, .two-col-container #Tabs ul li a:hover, .two-col-container #Tabs ul li a.active, .two-col-container #Tabs ul li a.active:hover { background-image:none; }
+.two-col-container #Tabs ul li a.active { background-image:none; background-color:#5d4b3f; margin-left: 0px;}
+.two-col-container #Tabs ul li a:hover, .two-col-container #Tabs ul li a.active, .two-col-container #Tabs ul li a.active:hover {background-color: #5d4b3f; color: #fff;}
+
+.two-col-container .LinkButton .bl, .two-col-container .LinkButtonFlash .bl, .two-col-container .LinkButtonNoTrack .bl { background: url("../images/structure/link-BL-green.gif") no-repeat scroll 0 100%;}
+.two-col-container .LinkButton .br, .two-col-container .LinkButtonFlash .br, .two-col-container .LinkButtonNoTrack .br { background: url("../images/structure/link-BR-green.gif") no-repeat scroll 100% 100%;}
+.two-col-container .LinkButton .tl, .two-col-container .LinkButtonFlash .tl, .two-col-container .LinkButtonNoTrack .tl { background: url("../images/structure/btn_arrow-green.gif") no-repeat scroll 97% 50%;}
+.two-col-container .LinkButton .tr, .two-col-container .LinkButtonFlash .tr, .two-col-container .LinkButtonNoTrack .tr { background: url("../images/structure/link-TR-green.gif") no-repeat scroll 100% 0; padding: 3px 12px 3px 6px;}
+.two-col-container .LinkButton a, .two-col-container .LinkButtonFlash a, .two-col-container .LinkButtonNoTrack a {  background: url("../images/structure/btn-left-green.gif") no-repeat scroll 0 0 #50583f;}
+.two-col-container .LinkButton a:hover, .two-col-container .LinkButtonFlash a:hover, .two-col-container .LinkButtonNoTrack a:hover {
+    background: url("../images/structure/btn-left-hover.gif") no-repeat scroll 0 0 #fff;
+    color: #5d4c40;
+}
+
+html > body.two-col-container .secondary-2 .Image {min-height: 201px;}
+.two-col-container .secondary-2 .Image h2 {margin: 163px 0 0; }
+.two-col-container .home-left-block { margin-bottom: 0; padding-bottom: 0;}
+.two-col-container span.home-left-header {padding: 7px 10px 7px 8px; background-color:#000}
+.two-col-container a span.home-left-header { color:#FFF}
+
+.two-col-container #PageLeft .right-panel,  .two-col-container #PageLeft .right-panel-flash { width:auto;}
+.two-col-container #PageLeft  ul.right-links li a, .two-col-container #PageLeft  .right-event-image p a, .two-col-container #PageLeft .right-quote a { padding: 10px 12px 10px 10px;}
+.two-col-container input.search-careers-offices { width:70%}
+
+.two-col-container .carousel .carousel-wrap {width: 91.8%;}
+.two-col-container .carousel ul li {width: 238px; font-size: 1.6em;}
+html > body.two-col-container .carousel ul li { min-height:225px}
+.two-col-container .carousel a.previous, .two-col-container .carousel a.next {width: 30px; height: 220px;}
+.two-col-container .carousel a.next, .two-col-container .carousel a.next.disabled:hover  {background: url("../images/structure/arrow-next-green.gif") no-repeat scroll center center #50583f;}
+.two-col-container .carousel a.previous, .two-col-container .carousel a.previous.disabled:hover {background: url("../images/structure/arrow-prev-green.gif") no-repeat scroll center center #50583f;}
+.two-col-container .carousel a.next:hover { background: url("../images/structure/arrow-next-hover.gif") no-repeat scroll center center #faf9f6;}
+.two-col-container .carousel a.previous:hover { background: url("../images/structure/arrow-prev-hover.gif") no-repeat scroll center center #faf9f6;}
+
+.two-col-container .carousel ul li span {width: 216px;  margin-top:-2.71em; padding: 11px 10px 0}
+.lt-ie9 .two-col-container .carousel ul li span {margin-top: -51px;}
+.lt-ie8 .two-col-container .carousel ul li span {margin-top: -47px;}
+html > body.two-col-container .carousel ul li span {min-height: 36px;}
+.two-col-container .carousel .box {background-color: #50583f; border: 1px solid #50583f;}
+.two-col-container .carousel .active { background-color: #fff;}
+
+/*social media*/
+
+.panel-wrapper { margin-bottom:1px;}
+.four-col-promo-wrapper .col {margin-right: 2px; float: left; background-color:#cccccc; padding:10px 10px 0 10px; min-height: 150px; width: 14.81em;}
+.lt-ie8 .four-col-promo-wrapper .col {}
+.four-col-promo-wrapper .col.last {width: 14.79em;}
+.four-col-promo-wrapper .col h3 {font-family: 'UniversLTW01-67BoldCn','arial'; font-size: 1.2em; font-style: normal;  font-weight: normal !important; margin-bottom: 18px;}
+.four-col-promo-wrapper .col span.fone { font-family: 'UniversLTW01-67BoldCn','arial'; font-size: 2.7em; color:#393939;}
+.four-col-promo-wrapper .col p.left {width: 78px;  margin: 0;}
+.four-col-promo-wrapper .col img.right { margin: -10px 0 0;}
+html > body.two-col-container input.search-careers-offices {padding: 3px 35px 4px 3px;}
+
+.facebook-links { margin-left:20px; margin-top: 31px;}
+.facebook-links a, .facebook-links .fright { float:left}
+.facebook-links .fright { margin-left:4px; width: 100px;}
+.facebook-links .fright p {  margin: 0 0 5px;}
+.facebook-links .fright .button a { margin-bottom: 4px; width: 80px;}
+.facebook-links .fright .button a span {display: block;}
+
+
+.facebook-links .LinkButton { margin-bottom:24px;}
+
+ul.social-icons { padding:0; margin-left: 20px; margin-top: 30px;}
+#PageContent ul.social-icons li { float:left; list-style:none; margin-right:10px;}
+ul.social-icons li a { background-position:center center; background-repeat:no-repeat; display:block; height:40px; width:40px; overflow: hidden; text-indent: -9999px; }
+
+li.twitter a { background:url("../images/structure/twitter-icon.png") no-repeat center center; }
+li.linkedin { background:url("../images/structure/linkedin-icon.png") no-repeat center center; }
+li.youtube { background:url("../images/structure/youtube-icon.png") no-repeat center center; }
+
+.relative { position:relative}
+.divider-bottom { position:absolute; bottom:5px; border-top:1px solid #b1b1b1; width:90% }
+
+.two-col-container .col input.search-careers-offices { width: 74%;}
+
+/* buttons */
+.button a { 
+                background-color:#50583f;
+                padding: 3px 5px 2px; 
+                -moz-border-radius: 5px; 
+                -webkit-border-radius: 5px; 
+                border-radius: 5px; 
+                -khtml-border-radius: 5px; 
+                behavior: url("../../army-global/js/pie/PIE.htc");
+                text-decoration:none;
+                font-family: "UniversLTW01-67BoldCn","arial";
+    font-style: normal;
+                font-size: 1em;
+                color:#FFF;
+                position:relative;
+                z-index:999;
+}
+.button a span { padding-right: 9px; background: url("../images/structure/btn_arrow-green.gif") no-repeat right center ;}
+.button a:hover  { color: #5d4c40; background-color:#FFF; }
+.button a:hover span  { background: url("../images/structure/arrow-jobs.gif") no-repeat right center  }
+.button.orange a span {background-image: url("../images/structure/arrow-jobs.gif"); color:#000;  }
+.orange a { background-color: #fbc133; }

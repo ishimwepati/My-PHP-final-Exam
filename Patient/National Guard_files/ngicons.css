@@ -1,0 +1,305 @@
+/*
+  Icon Font: ngicons
+*/
+
+@font-face {
+  font-family: "ngicons";
+  src: url("./ngicons_3ff4ad957ee331ea7469d5323152d820.eot");
+  src: url("./ngicons_3ff4ad957ee331ea7469d5323152d820.eot?#iefix") format("embedded-opentype"),
+       url("./ngicons_3ff4ad957ee331ea7469d5323152d820.woff") format("woff"),
+       url("./ngicons_3ff4ad957ee331ea7469d5323152d820.ttf") format("truetype"),
+       url("./ngicons_3ff4ad957ee331ea7469d5323152d820.svg#ngicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "ngicons";
+    src: url("./ngicons_3ff4ad957ee331ea7469d5323152d820.svg#ngicons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-account:before,
+.icon-afghanistan:before,
+.icon-download:before,
+.icon-explore:before,
+.icon-gx-logo:before,
+.icon-home:before,
+.icon-linkedin:before,
+.icon-next:before,
+.icon-ng-circled-x:before,
+.icon-ng_0:before,
+.icon-ng_1:before,
+.icon-ng_2:before,
+.icon-ng_3:before,
+.icon-ng_4:before,
+.icon-ng_5:before,
+.icon-ng_6:before,
+.icon-ng_7:before,
+.icon-ng_8:before,
+.icon-ng_9:before,
+.icon-ng_STEM-engineering:before,
+.icon-ng_STEM-engineering-box:before,
+.icon-ng_STEM-math:before,
+.icon-ng_STEM-math-box:before,
+.icon-ng_STEM-science:before,
+.icon-ng_STEM-science-box:before,
+.icon-ng_STEM-technology:before,
+.icon-ng_STEM-technology-box:before,
+.icon-ng_arrow-down:before,
+.icon-ng_arrow-left:before,
+.icon-ng_arrow-right:before,
+.icon-ng_arrow-up:before,
+.icon-ng_article:before,
+.icon-ng_article-box:before,
+.icon-ng_calculator:before,
+.icon-ng_calendar:before,
+.icon-ng_chat:before,
+.icon-ng_crosshair:before,
+.icon-ng_document:before,
+.icon-ng_facebook:before,
+.icon-ng_flickr:before,
+.icon-ng_forums:before,
+.icon-ng_google-plus:before,
+.icon-ng_guard-experience:before,
+.icon-ng_instagram:before,
+.icon-ng_link:before,
+.icon-ng_menu:before,
+.icon-ng_ng-logo:before,
+.icon-ng_ng-logo-stacked:before,
+.icon-ng_pause:before,
+.icon-ng_pause-box:before,
+.icon-ng_pencil:before,
+.icon-ng_person:before,
+.icon-ng_photo:before,
+.icon-ng_photo-box:before,
+.icon-ng_pintrest:before,
+.icon-ng_play:before,
+.icon-ng_play-box:before,
+.icon-ng_point-down:before,
+.icon-ng_point-left:before,
+.icon-ng_point-right:before,
+.icon-ng_point-up:before,
+.icon-ng_ribbon:before,
+.icon-ng_search:before,
+.icon-ng_share:before,
+.icon-ng_star:before,
+.icon-ng_talk:before,
+.icon-ng_text:before,
+.icon-ng_tumblr:before,
+.icon-ng_twitter:before,
+.icon-ng_vine:before,
+.icon-ng_youtube:before,
+.icon-previous:before,
+.icon-save:before,
+.icon-selected:before,
+.icon-selected-1:before,
+.icon-selected-2:before,
+.icon-share:before,
+.icon-state_AK:before,
+.icon-state_AL:before,
+.icon-state_AR:before,
+.icon-state_AZ:before,
+.icon-state_CA:before,
+.icon-state_CO:before,
+.icon-state_CT:before,
+.icon-state_DC:before,
+.icon-state_DE:before,
+.icon-state_FL:before,
+.icon-state_GA:before,
+.icon-state_HI:before,
+.icon-state_IA:before,
+.icon-state_ID:before,
+.icon-state_IL:before,
+.icon-state_IN:before,
+.icon-state_KS:before,
+.icon-state_KY:before,
+.icon-state_LA:before,
+.icon-state_MA:before,
+.icon-state_MD:before,
+.icon-state_ME:before,
+.icon-state_MI:before,
+.icon-state_MN:before,
+.icon-state_MO:before,
+.icon-state_MS:before,
+.icon-state_MT:before,
+.icon-state_NC:before,
+.icon-state_ND:before,
+.icon-state_NE:before,
+.icon-state_NH:before,
+.icon-state_NJ:before,
+.icon-state_NM:before,
+.icon-state_NV:before,
+.icon-state_NY:before,
+.icon-state_OH:before,
+.icon-state_OK:before,
+.icon-state_OR:before,
+.icon-state_PA:before,
+.icon-state_PR:before,
+.icon-state_RI:before,
+.icon-state_SC:before,
+.icon-state_SD:before,
+.icon-state_TN:before,
+.icon-state_TX:before,
+.icon-state_US:before,
+.icon-state_UT:before,
+.icon-state_VA:before,
+.icon-state_VT:before,
+.icon-state_WA:before,
+.icon-state_WI:before,
+.icon-state_WV:before,
+.icon-state_WY:before,
+.icon-state_guam:before,
+.icon-state_virgin-islands:before,
+.icon-time:before {
+  display: inline-block;
+  font-family: "ngicons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-account:before { content: "\f16c"; }
+.icon-afghanistan:before { content: "\f16d"; }
+.icon-download:before { content: "\f16e"; }
+.icon-explore:before { content: "\f16f"; }
+.icon-gx-logo:before { content: "\f170"; }
+.icon-home:before { content: "\f171"; }
+.icon-linkedin:before { content: "\f172"; }
+.icon-next:before { content: "\f173"; }
+.icon-ng-circled-x:before { content: "\f174"; }
+.icon-ng_0:before { content: "\f100"; }
+.icon-ng_1:before { content: "\f101"; }
+.icon-ng_2:before { content: "\f102"; }
+.icon-ng_3:before { content: "\f103"; }
+.icon-ng_4:before { content: "\f104"; }
+.icon-ng_5:before { content: "\f105"; }
+.icon-ng_6:before { content: "\f106"; }
+.icon-ng_7:before { content: "\f107"; }
+.icon-ng_8:before { content: "\f108"; }
+.icon-ng_9:before { content: "\f109"; }
+.icon-ng_STEM-engineering:before { content: "\f175"; }
+.icon-ng_STEM-engineering-box:before { content: "\f176"; }
+.icon-ng_STEM-math:before { content: "\f177"; }
+.icon-ng_STEM-math-box:before { content: "\f178"; }
+.icon-ng_STEM-science:before { content: "\f179"; }
+.icon-ng_STEM-science-box:before { content: "\f17a"; }
+.icon-ng_STEM-technology:before { content: "\f17b"; }
+.icon-ng_STEM-technology-box:before { content: "\f17c"; }
+.icon-ng_arrow-down:before { content: "\f10a"; }
+.icon-ng_arrow-left:before { content: "\f10b"; }
+.icon-ng_arrow-right:before { content: "\f10c"; }
+.icon-ng_arrow-up:before { content: "\f10d"; }
+.icon-ng_article:before { content: "\f10e"; }
+.icon-ng_article-box:before { content: "\f10f"; }
+.icon-ng_calculator:before { content: "\f17d"; }
+.icon-ng_calendar:before { content: "\f110"; }
+.icon-ng_chat:before { content: "\f111"; }
+.icon-ng_crosshair:before { content: "\f112"; }
+.icon-ng_document:before { content: "\f113"; }
+.icon-ng_facebook:before { content: "\f114"; }
+.icon-ng_flickr:before { content: "\f115"; }
+.icon-ng_forums:before { content: "\f116"; }
+.icon-ng_google-plus:before { content: "\f117"; }
+.icon-ng_guard-experience:before { content: "\f118"; }
+.icon-ng_instagram:before { content: "\f119"; }
+.icon-ng_link:before { content: "\f11a"; }
+.icon-ng_menu:before { content: "\f11b"; }
+.icon-ng_ng-logo:before { content: "\f11c"; }
+.icon-ng_ng-logo-stacked:before { content: "\f11d"; }
+.icon-ng_pause:before { content: "\f11e"; }
+.icon-ng_pause-box:before { content: "\f11f"; }
+.icon-ng_pencil:before { content: "\f120"; }
+.icon-ng_person:before { content: "\f121"; }
+.icon-ng_photo:before { content: "\f122"; }
+.icon-ng_photo-box:before { content: "\f123"; }
+.icon-ng_pintrest:before { content: "\f124"; }
+.icon-ng_play:before { content: "\f125"; }
+.icon-ng_play-box:before { content: "\f126"; }
+.icon-ng_point-down:before { content: "\f127"; }
+.icon-ng_point-left:before { content: "\f128"; }
+.icon-ng_point-right:before { content: "\f129"; }
+.icon-ng_point-up:before { content: "\f12a"; }
+.icon-ng_ribbon:before { content: "\f12b"; }
+.icon-ng_search:before { content: "\f12c"; }
+.icon-ng_share:before { content: "\f12d"; }
+.icon-ng_star:before { content: "\f12e"; }
+.icon-ng_talk:before { content: "\f12f"; }
+.icon-ng_text:before { content: "\f130"; }
+.icon-ng_tumblr:before { content: "\f131"; }
+.icon-ng_twitter:before { content: "\f132"; }
+.icon-ng_vine:before { content: "\f133"; }
+.icon-ng_youtube:before { content: "\f134"; }
+.icon-previous:before { content: "\f17e"; }
+.icon-save:before { content: "\f17f"; }
+.icon-selected:before { content: "\f180"; }
+.icon-selected-1:before { content: "\f181"; }
+.icon-selected-2:before { content: "\f182"; }
+.icon-share:before { content: "\f183"; }
+.icon-state_AK:before { content: "\f135"; }
+.icon-state_AL:before { content: "\f136"; }
+.icon-state_AR:before { content: "\f137"; }
+.icon-state_AZ:before { content: "\f138"; }
+.icon-state_CA:before { content: "\f139"; }
+.icon-state_CO:before { content: "\f13a"; }
+.icon-state_CT:before { content: "\f13b"; }
+.icon-state_DC:before { content: "\f13c"; }
+.icon-state_DE:before { content: "\f13d"; }
+.icon-state_FL:before { content: "\f13e"; }
+.icon-state_GA:before { content: "\f13f"; }
+.icon-state_HI:before { content: "\f140"; }
+.icon-state_IA:before { content: "\f141"; }
+.icon-state_ID:before { content: "\f142"; }
+.icon-state_IL:before { content: "\f143"; }
+.icon-state_IN:before { content: "\f144"; }
+.icon-state_KS:before { content: "\f145"; }
+.icon-state_KY:before { content: "\f146"; }
+.icon-state_LA:before { content: "\f147"; }
+.icon-state_MA:before { content: "\f148"; }
+.icon-state_MD:before { content: "\f149"; }
+.icon-state_ME:before { content: "\f14a"; }
+.icon-state_MI:before { content: "\f14b"; }
+.icon-state_MN:before { content: "\f14c"; }
+.icon-state_MO:before { content: "\f14d"; }
+.icon-state_MS:before { content: "\f14e"; }
+.icon-state_MT:before { content: "\f14f"; }
+.icon-state_NC:before { content: "\f150"; }
+.icon-state_ND:before { content: "\f151"; }
+.icon-state_NE:before { content: "\f152"; }
+.icon-state_NH:before { content: "\f153"; }
+.icon-state_NJ:before { content: "\f154"; }
+.icon-state_NM:before { content: "\f155"; }
+.icon-state_NV:before { content: "\f156"; }
+.icon-state_NY:before { content: "\f157"; }
+.icon-state_OH:before { content: "\f158"; }
+.icon-state_OK:before { content: "\f159"; }
+.icon-state_OR:before { content: "\f15a"; }
+.icon-state_PA:before { content: "\f15b"; }
+.icon-state_PR:before { content: "\f15c"; }
+.icon-state_RI:before { content: "\f15d"; }
+.icon-state_SC:before { content: "\f15e"; }
+.icon-state_SD:before { content: "\f15f"; }
+.icon-state_TN:before { content: "\f160"; }
+.icon-state_TX:before { content: "\f161"; }
+.icon-state_US:before { content: "\f162"; }
+.icon-state_UT:before { content: "\f163"; }
+.icon-state_VA:before { content: "\f164"; }
+.icon-state_VT:before { content: "\f165"; }
+.icon-state_WA:before { content: "\f166"; }
+.icon-state_WI:before { content: "\f167"; }
+.icon-state_WV:before { content: "\f168"; }
+.icon-state_WY:before { content: "\f169"; }
+.icon-state_guam:before { content: "\f16a"; }
+.icon-state_virgin-islands:before { content: "\f16b"; }
+.icon-time:before { content: "\f184"; }

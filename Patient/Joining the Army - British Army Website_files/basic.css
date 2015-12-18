@@ -1,0 +1,40 @@
+body{
+    font-family:Arial, verdana, Helvetica, sans-serif;
+    font-size:75%;
+    background-color:#ffffff !important;
+    color:#333;
+    padding:0;
+    margin:0;
+}
+
+#Accesslinks{position:absolute;top:-999em;}
+/*h1, h2, h3, h4, h5, h6{ color:#000; }*/
+h2{font-size:1.2em; padding:0;margin:10px 0 5px 0;}
+h3{margin:0;padding:0;}
+h3, h4, h5, h6{font-size:1em;}
+
+p {margin:8px 0 8px 0; line-height:1.3em; }
+
+a{color:#4B3D34;}
+/*a:visited{color:#C80106;}*/
+a:hover, a:focus, a:active{text-decoration:underline; color:#C80106;}
+
+img{border:0;}
+ul li a{font-weight:normal; text-decoration:none; color:#4B3D34;}
+
+#PageContent ul li{margin:5px 0 5px 0;}
+#PageContent ul li a{text-decoration:underline;}
+
+table {font-size:100%; /* Needed for IE5.x */border:0px;border-style:none;border-collapse:collapse;border-spacing:0px;}
+th, td {vertical-align:top;padding:0;padding-bottom:0.5em;margin:0;}
+th {text-align:left;font-weight:bold;font-size:1.1em;}
+
+.clear{clear:both;}
+
+.hidden{position:absolute; top:-999em;}
+
+/*Classes for floating images*/
+.left{float:left; margin: 0 7px 5px 0;}
+.right{float:right; margin: 0 0 5px 5px;}
+
+.bold	{ font-weight:bold;}
